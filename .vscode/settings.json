@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/user/opt/anaconda3/envs/data/bin/python"
+    "python.pythonPath": "/Users/user/opt/anaconda3/envs/data/bin/python",
+    "editor.fontSize": 13
 }
